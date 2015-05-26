@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: SoftUni Battle In The Sea, Configuration: Debug Any CPU ------
+1>  SoftUni Battle In The Sea -> C:\Users\Vily\Downloads\Game-team-Taris-master (3)\Game-team-Taris-master\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

@@ -1,0 +1,86 @@
+D:\Test program\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.exe.config
+D:\Test program\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.exe
+D:\Test program\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.pdb
+D:\Test program\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.csprojResolveAssemblyReference.cache
+D:\Test program\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Form1.resources
+D:\Test program\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Properties.Resources.resources
+D:\Test program\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.csproj.GenerateResource.Cache
+D:\Test program\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.exe
+D:\Test program\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.pdb
+D:\GitHub\Game-team-Taris\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.exe.config
+D:\GitHub\Game-team-Taris\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.exe
+D:\GitHub\Game-team-Taris\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.pdb
+D:\GitHub\Game-team-Taris\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.exe
+D:\GitHub\Game-team-Taris\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.pdb
+D:\GitHub\Game-team-Taris\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.csprojResolveAssemblyReference.cache
+D:\GitHub\Game-team-Taris\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Properties.Resources.resources
+D:\GitHub\Game-team-Taris\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.csproj.GenerateResource.Cache
+C:\Users\wolfn_000\Downloads\Game-team-Taris-master(2)\Game-team-Taris-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.exe.config
+C:\Users\wolfn_000\Downloads\Game-team-Taris-master(2)\Game-team-Taris-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.exe
+C:\Users\wolfn_000\Downloads\Game-team-Taris-master(2)\Game-team-Taris-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.pdb
+C:\Users\wolfn_000\Downloads\Game-team-Taris-master(2)\Game-team-Taris-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.exe
+C:\Users\wolfn_000\Downloads\Game-team-Taris-master(2)\Game-team-Taris-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.pdb
+C:\Users\wolfn_000\Downloads\Game-team-Taris-master(2)\Game-team-Taris-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.csprojResolveAssemblyReference.cache
+C:\Users\wolfn_000\Downloads\Game-team-Taris-master(2)\Game-team-Taris-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.PlayingBoard.resources
+C:\Users\wolfn_000\Downloads\Game-team-Taris-master(2)\Game-team-Taris-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Properties.Resources.resources
+C:\Users\wolfn_000\Downloads\Game-team-Taris-master(2)\Game-team-Taris-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.csproj.GenerateResource.Cache
+C:\Users\wolfn_000\Downloads\Game-team-Taris-master(2)\Game-team-Taris-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Forms.PopupInputForm.resources
+C:\Users\wolfn_000\Downloads\Game-team-Taris-master(2)\Game-team-Taris-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Forms.PopupNotificationForm.resources
+F:\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.exe.config
+F:\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.exe
+F:\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.exe
+F:\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.pdb
+F:\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.csprojResolveAssemblyReference.cache
+F:\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.PlayingBoard.resources
+F:\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Forms.PopupInputForm.resources
+F:\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Forms.PopupNotificationForm.resources
+F:\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Properties.Resources.resources
+F:\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.csproj.GenerateResource.Cache
+F:\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.pdb
+C:\Users\Vily\Downloads\SoftUni Battle In The Sea (1)\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.exe.config
+C:\Users\Vily\Downloads\SoftUni Battle In The Sea (1)\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.exe
+C:\Users\Vily\Downloads\SoftUni Battle In The Sea (1)\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.pdb
+C:\Users\Vily\Downloads\SoftUni Battle In The Sea (1)\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.exe
+C:\Users\Vily\Downloads\SoftUni Battle In The Sea (1)\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.pdb
+C:\Users\Vily\Downloads\SoftUni Battle In The Sea (1)\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.csprojResolveAssemblyReference.cache
+C:\Users\Vily\Downloads\SoftUni Battle In The Sea (1)\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.PlayingBoard.resources
+C:\Users\Vily\Downloads\SoftUni Battle In The Sea (1)\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Forms.PopupInputForm.resources
+C:\Users\Vily\Downloads\SoftUni Battle In The Sea (1)\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Forms.PopupNotificationForm.resources
+C:\Users\Vily\Downloads\SoftUni Battle In The Sea (1)\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Properties.Resources.resources
+C:\Users\Vily\Downloads\SoftUni Battle In The Sea (1)\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.csproj.GenerateResource.Cache
+C:\Users\csp\Downloads\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.exe.config
+C:\Users\csp\Downloads\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.exe
+C:\Users\csp\Downloads\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.pdb
+C:\Users\csp\Downloads\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.exe
+C:\Users\csp\Downloads\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.pdb
+C:\Users\csp\Downloads\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.csprojResolveAssemblyReference.cache
+C:\Users\csp\Downloads\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.PlayingBoard.resources
+C:\Users\csp\Downloads\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Forms.PopupInputForm.resources
+C:\Users\csp\Downloads\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Forms.PopupNotificationForm.resources
+C:\Users\csp\Downloads\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Properties.Resources.resources
+C:\Users\csp\Downloads\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.csproj.GenerateResource.Cache
+C:\Users\Vily\Downloads\Game-team-Taris-master (3)\Game-team-Taris-master\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.exe.config
+C:\Users\Vily\Downloads\Game-team-Taris-master (3)\Game-team-Taris-master\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.exe
+C:\Users\Vily\Downloads\Game-team-Taris-master (3)\Game-team-Taris-master\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.pdb
+C:\Users\Vily\Downloads\Game-team-Taris-master (3)\Game-team-Taris-master\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.exe
+C:\Users\Vily\Downloads\Game-team-Taris-master (3)\Game-team-Taris-master\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.pdb
+C:\Users\Vily\Downloads\Game-team-Taris-master (3)\Game-team-Taris-master\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.csprojResolveAssemblyReference.cache
+C:\Users\Vily\Downloads\Game-team-Taris-master (3)\Game-team-Taris-master\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.PlayingBoard.resources
+C:\Users\Vily\Downloads\Game-team-Taris-master (3)\Game-team-Taris-master\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Forms.PopupInputForm.resources
+C:\Users\Vily\Downloads\Game-team-Taris-master (3)\Game-team-Taris-master\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Forms.PopupNotificationForm.resources
+C:\Users\Vily\Downloads\Game-team-Taris-master (3)\Game-team-Taris-master\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Properties.Resources.resources
+C:\Users\Vily\Downloads\Game-team-Taris-master (3)\Game-team-Taris-master\SoftUni-projects-master\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.csproj.GenerateResource.Cache
+D:\Downloads\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.exe.config
+D:\Downloads\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.exe
+D:\Downloads\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.pdb
+D:\Downloads\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.exe
+D:\Downloads\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.pdb
+D:\Downloads\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.csprojResolveAssemblyReference.cache
+D:\Downloads\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.PlayingBoard.resources
+D:\Downloads\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Forms.PopupInputForm.resources
+D:\Downloads\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Forms.PopupNotificationForm.resources
+D:\Downloads\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Properties.Resources.resources
+D:\Downloads\SoftUni Battle In The Sea\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.csproj.GenerateResource.Cache
+D:\GitHub\Game-team-Taris\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.PlayingBoard.resources
+D:\GitHub\Game-team-Taris\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Forms.PopupInputForm.resources
+D:\GitHub\Game-team-Taris\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Forms.PopupNotificationForm.resources

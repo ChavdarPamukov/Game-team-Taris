@@ -1,0 +1,18 @@
+D:\Test program\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.exe.config
+D:\Test program\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.exe
+D:\Test program\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.pdb
+D:\Test program\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.csprojResolveAssemblyReference.cache
+D:\Test program\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Form1.resources
+D:\Test program\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Properties.Resources.resources
+D:\Test program\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.csproj.GenerateResource.Cache
+D:\Test program\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.exe
+D:\Test program\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.pdb
+D:\GitHub\Game-team-Taris\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.exe.config
+D:\GitHub\Game-team-Taris\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.exe
+D:\GitHub\Game-team-Taris\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.pdb
+D:\GitHub\Game-team-Taris\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.exe
+D:\GitHub\Game-team-Taris\SoftUni Battle In The Sea\SoftUni Battle In The Sea\bin\Debug\SoftUni Battle In The Sea.pdb
+D:\GitHub\Game-team-Taris\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.csprojResolveAssemblyReference.cache
+D:\GitHub\Game-team-Taris\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Form1.resources
+D:\GitHub\Game-team-Taris\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni_Battle_In_The_Sea.Properties.Resources.resources
+D:\GitHub\Game-team-Taris\SoftUni Battle In The Sea\SoftUni Battle In The Sea\obj\Debug\SoftUni Battle In The Sea.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+C:\Users\Vily\Documents\Visual Studio 2013\Projects\02Methods-homework\06NumberCalculation\bin\Debug\06NumberCalculation.exe.config
+C:\Users\Vily\Documents\Visual Studio 2013\Projects\02Methods-homework\06NumberCalculation\obj\Debug\06NumberCalculation.csprojResolveAssemblyReference.cache
+C:\Users\Vily\Documents\Visual Studio 2013\Projects\02Methods-homework\06NumberCalculation\bin\Debug\06NumberCalculation.exe
+C:\Users\Vily\Documents\Visual Studio 2013\Projects\02Methods-homework\06NumberCalculation\bin\Debug\06NumberCalculation.pdb
+C:\Users\Vily\Documents\Visual Studio 2013\Projects\02Methods-homework\06NumberCalculation\obj\Debug\06NumberCalculation.exe
+C:\Users\Vily\Documents\Visual Studio 2013\Projects\02Methods-homework\06NumberCalculation\obj\Debug\06NumberCalculation.pdb

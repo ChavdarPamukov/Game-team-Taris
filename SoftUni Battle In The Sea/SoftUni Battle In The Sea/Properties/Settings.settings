@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SoftUni_Battle_In_The_Sea.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sdfsdf</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

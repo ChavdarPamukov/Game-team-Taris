@@ -1,0 +1,9 @@
+D:\Test program\BStest1\BStest1\bin\Debug\BStest1.exe.config
+D:\Test program\BStest1\BStest1\bin\Debug\BStest1.exe
+D:\Test program\BStest1\BStest1\bin\Debug\BStest1.pdb
+D:\Test program\BStest1\BStest1\obj\Debug\BStest1.csprojResolveAssemblyReference.cache
+D:\Test program\BStest1\BStest1\obj\Debug\BStest1.Properties.Resources.resources
+D:\Test program\BStest1\BStest1\obj\Debug\BStest1.csproj.GenerateResource.Cache
+D:\Test program\BStest1\BStest1\obj\Debug\BStest1.exe
+D:\Test program\BStest1\BStest1\obj\Debug\BStest1.pdb
+D:\Test program\BStest1\BStest1\obj\Debug\BStest1.GameWindow.resources
