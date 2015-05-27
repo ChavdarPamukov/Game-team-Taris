@@ -477,7 +477,7 @@ namespace SoftUni_Battle_In_The_Sea
              for (int i = 1; i <= 50; i++)
             {
                 Button button = GetButtonFor(i);
-                button.BackColor = Color.White;
+                button.BackColor = Color.Teal;
             }
 
             this._numberOfPlayers = 2;
