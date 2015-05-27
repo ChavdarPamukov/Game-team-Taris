@@ -35,6 +35,7 @@ namespace SoftUni_Battle_In_The_Sea
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            this.Close();
             MessageBox.Show("Created by a team \"Taris\"", "SoftUni Battle In The Sea About");
         }
 
